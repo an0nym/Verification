@@ -7,7 +7,9 @@
       {"value": "Open", "onclick": "OpenDoc()"},
       {"value": "Close", "onclick": "CloseDoc()"}
     ]
-  },
+  }
+},
   "remote_integer_value": "3",
   "remote_string_value": "Mehdi String"
-}}
+
+}
