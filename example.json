@@ -1,15 +1,5 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
-  }
-},
-  "remote_integer_value": "3",
-  "remote_string_value": "Mehdi String"
-
+{
+  "currentVersion": "1.0",
+  "criticalValue": "1",
+  "versionURL": "http://apple.com"
 }
